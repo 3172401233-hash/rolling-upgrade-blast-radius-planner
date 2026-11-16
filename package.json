@@ -1,0 +1,17 @@
+{
+  "name": "oauth-device-code-validator",
+  "version": "1.0.0",
+  "description": "JavaScript OAuth 设备码绑定校验库，处理设备上下文、轮询状态、重放和过期",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
