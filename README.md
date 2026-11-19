@@ -1,2 +1,3 @@
-# oauth-device-code-validator
-JavaScript OAuth 设备码绑定校验库，处理设备上下文、轮询状态、重放和过期
+# rolling-upgrade-blast-radius-planner
+
+规划多服务滚动升级顺序并限制故障影响范围。
