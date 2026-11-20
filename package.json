@@ -1,0 +1,14 @@
+{
+  "name": "rolling-upgrade-blast-radius-planner",
+  "version": "1.0.0",
+  "description": "规划多服务滚动升级顺序并限制故障影响范围（仅输出计划，不操作发布系统）",
+  "type": "module",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node examples/demo.js"
+  },
+  "license": "MIT"
+}
